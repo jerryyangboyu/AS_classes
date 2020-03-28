@@ -1,5 +1,5 @@
 # Python program example for AS CAIE
-this git repository is used to store example python code in order to distribute to teachers or other students. If you found some bugs or issues, you can pull requests or create an github issue
+This git repository is used to store example python code in order to distribute to teachers or other students. If you find some bugs or issues, you can pull requests or create a github issue
 
 ## Environment
 - Python 3.8.1
