@@ -4,7 +4,7 @@ this git repository is used to store example python code in order to distribute 
 ## Environment
 - Python 3.8.1
 - Typing library required
-- This program is being fully test on Windows platform
+- This program is being fully tested on Windows platform
 
 ## File structures
 - AS_classes
