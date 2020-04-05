@@ -9,6 +9,7 @@ This git repository is used to store example python code in order to distribute 
 ## File structures
 - AS_classes
     - solution for Q4E_2016_W23 paper
+    - solution for 2018 MJ 21
     - solutions for pre release materials
         - solutions for task3
         - solutions for task4
