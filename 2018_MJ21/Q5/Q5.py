@@ -1,6 +1,4 @@
-from typing import List
 from FileHandler import FileHandler
-
 
 def add_new_scores():
     comp = lambda x, upper, lower: x < lower or x > upper
